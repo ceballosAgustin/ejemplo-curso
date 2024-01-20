@@ -14,6 +14,7 @@ namespace ejemplo1
     {
         public frmPrincipal()
         {
+            // Agrego un comentario para la segunda subida en Git
             InitializeComponent();
         }
 
